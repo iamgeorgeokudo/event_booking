@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Event app brand palette -->
+    <color name="pink_primary">#F58B3A</color>
+    <color name="pink_primary_dark">#D8742B</color>
+    <color name="pink_primary_light">#FDEBDE</color>
+
+    <color name="background_light">#FAFAFD</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_alt">#F3F4F8</color>
+
+    <color name="text_dark">#222222</color>
+    <color name="text_hint">#9E9EAE</color>
+
+    <color name="input_background">#F5F5F8</color>
+    <color name="gray_light">#E4E5ED</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
+
+
+

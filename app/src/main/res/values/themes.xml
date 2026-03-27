@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Event_booking" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryContainer">@color/pink_primary_light</item>
+        <item name="colorSecondary">@color/pink_primary_dark</item>
+        <item name="android:statusBarColor">@color/pink_primary</item>
+        <item name="android:navigationBarColor">@color/surface_light</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <style name="Theme.Event_booking" parent="Base.Theme.Event_booking" />
+    <style name="CircleImage" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+<!--    <style name="CircleImage">-->
+<!--        <item name="cornerSize">50%</item>-->
+<!--    </style>-->
+
+    <style name="RoundedImage">
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>
