@@ -78,9 +78,5 @@ Ensure all activities are registered under their respective packages:
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
 
 
