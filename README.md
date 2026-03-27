@@ -1,4 +1,4 @@
-Understood. I've stripped out the icon emojis and placeholders to give you a clean, high-level technical **README**. This version focuses strictly on the architecture, setup, and features of your Event Booking app.
+
 
 ---
 
